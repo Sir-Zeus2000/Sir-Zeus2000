@@ -1,7 +1,7 @@
-# Hi there, I'm [Sir-Zeus] 👋
+# Hi there, I'm Zeus 👋
 ### Cybersecurity Engineer
 
-I'm a passionate cybersecurity professional dedicated to securing digital landscapes and exploring the intricacies of mobile security. With a focus on ethical hacking and mobile application security, I thrive on unraveling vulnerabilities and strengthening defenses.
+I'm a cybersecurity professional dedicated to securing digital landscapes and exploring the intricacies of mobile security. With a focus on ethical hacking and mobile application security, I thrive on unraveling vulnerabilities and strengthening defenses.
 
 ## 🛠️ Tools and Technologies
 - **Programming Languages:** Python, JavaScript, Java
